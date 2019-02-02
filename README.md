@@ -39,3 +39,12 @@ The response will look like this:
 `[{ "senior": 3, "junior": 1 },   { "senior": 2, "junior": 1 },   { "senior": 2, "junior": 0 } ]`
 
 If the request input is not answering the assessments we will receive a bad request response.
+
+## Two more things
+1. We will currently prefer to fill the workplace capacity with as much seniors (regarding of course the least amount of overcapacity).
+Meaning that for example the junior capacity is 1 and the senior capacity is 5 and the amount of rooms is 32,
+the recommendation will be 6 seniors and 2 juniors and not 1 senior and 27 juniors.
+This will reduce the amount of workers in total.
+This could easily be reversed by changing the for loop in `WorkplaceOptimizationService` to run from 1 till `maxSeniorAmount -1`
+2. Added a docker to create an image of the working project.
+Just need to run the command ```docker build .``` in the project root folder.   
