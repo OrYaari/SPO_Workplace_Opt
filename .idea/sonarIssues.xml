@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="C:/InsuranceCalculatorFinLeap/InsuranceCalculatorFinLeap/.idea/modules/InsuranceCalculatorFinLeap.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/InsuranceCalculatorFinLeap/InsuranceCalculatorFinLeap/.idea/modules/InsuranceCalculatorFinLeap_main.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="C:/InsuranceCalculatorFinLeap/InsuranceCalculatorFinLeap/.idea/modules/InsuranceCalculatorFinLeap_test.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/Request">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/Application.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/Bootstrap.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/calculator/CapacityCalculator.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/controller/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/controller/WorkplaceOptimizationController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/OptimizationRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/OptimizationResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/OptimnizationRequst.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/Requst.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/RoomAssignment.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/model/com/spo/workplace/controller/Controller.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/spo/workplace/service/WorkplaceOptimizationService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/spo/workplace/calculator/CapacityCalculatorTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/test/java/com/spo/workplace/service/WorkplaceOptimizationServiceTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="T:/N26/transactions-statistics-iq84dffc47/coding-challenge.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
